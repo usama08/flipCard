@@ -1,16 +1,2 @@
-# flipcard
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flipcard #flip_card
+Flip Card is a versatile and interactive component for creating flip animations in your web applications. With easy integration and customizable settings, Flip Card offers a seamless way to showcase content on your website. Whether you're building a portfolio, educational platform, or e-commerce site, Flip Card adds an engaging element to your user experience. Explore various animation options, flip directions, and content formats to create dynamic and visually appealing interfaces. Elevate your web development projects with Flip Card today
